@@ -8,8 +8,8 @@
   ],
   "token": "cab68f760fe9a604a1d7efd19257bd7afbc41164",
   "urls": {
-    "api_endpoint": "https://dashboard.smallshorts.com/api",
-    "verification_check": "https://pin.straxmod.in/check_verification.php",
+    "api_endpoint": "https://smallshorts.com/api",
+    "verification_check": "https://pin.straxmod.in/check_verification2.php",
     "pin_generation": "https://pin.straxmod.in//index.php",
     "join_us": "https://telegram.me/straxmod",
     "tutorial": "https://telegram.me/how_to_download_Tutorials"
